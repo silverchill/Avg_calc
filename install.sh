@@ -10,6 +10,12 @@ if [ "$(id -u)" -ne 0 ]; then
     exit 1
 fi
 
+# Check if the destination directory exists
+if [ ! -d "$destination_dir" ]; then
+    echo "Error: Destination directory '$destination_dir' does not exist."
+    exit 1
+fi
+
 # Copy the file to /bin if it doesn't already exist there
 if [ ! -e "$destination_dir/avg_cal" ]; then
     sudo cp "$source_file" "$destination_dir"
