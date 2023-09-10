@@ -16,6 +16,12 @@ if [ ! -d "$destination_dir" ]; then
     exit 1
 fi
 
+# Check if the source file exists
+if [ ! -e "$source_file" ]; then
+    echo "Error: Source file '$source_file' does not exist."
+    exit 1
+fi
+
 # Copy the file to /bin if it doesn't already exist there
 if [ ! -e "$destination_dir/avg_cal" ]; then
     sudo cp "$source_file" "$destination_dir"
