@@ -50,7 +50,8 @@ The calculator will display the monthly average result.
 
 ## Usage
 Clear and concise instructions on how to use the calculator effectively. Include examples or screenshots if necessary.
-![AlX Monthly  Calculator] (https://drive.google.com/file/d/1ahJK5Y5FjmIS0FRoBi59DJSBIbgC5zu5/view?usp=sharing)
+
+![AlX Monthly  Calculator](https://drive.google.com/file/d/1ahJK5Y5FjmIS0FRoBi59DJSBIbgC5zu5/view?usp=sharing)
 
 
 ## Feedback and Issues
