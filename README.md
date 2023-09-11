@@ -61,7 +61,7 @@ We welcome any feedback, suggestions, or bug reports related to the test cases i
 ## Contributing
 If you would like to contribute to this project, kindly contact us below:
 
-- [Click here](odiasestephen@gmail.com)
+- [Click here](mailto:odiasestephen@gmail.com)
 
 
 ## Release
