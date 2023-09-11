@@ -24,38 +24,34 @@ Follow these steps to get started with the AlX Monthly Calculator:
 
 1. **Clone the Repository**: 
 ```
-git clone https://@github.com/<repo_name>.git
-```
-*NB: Replace* **<repo_name>** *with the respective repository name*
-**ITC:** `https://@github.com/alx-avg_calc.git`
-
-2. **Change Directory**:
-cd into the repo cloned
-```
-cd alx-avg_calc
+git clone https://github.com/silverchill/Avg_calc.git
 ```
 
-3. **Run the Installer**:
-Use the following command to install the AlX Monthly Calculator:
+2. **Change Directory**: cd into the repo cloned
 ```
-./install.sh
-```
-
-4. **Run the Calculator**:
-Use the following command to run the AlX Monthly Calculator:
-```
-./avg_cal
+cd Avg_calc
 ```
 
-5. **Enter Data**:
-Follow the on-screen prompts to enter your data for each month after selecting the month to calculate.
+3. **Run the Installer**: Use the following command to install the AlX Monthly Calculator:
+```
+sudo ./install.sh
+```
+
+4. **Run the Calculator**: Use the following command to run the AlX Monthly Calculator:
+```
+avg_cal
+```
+
+5. **Enter Data**: Follow the on-screen prompts to enter your data for each month after selecting the month to calculate.
 
 6. **View the Result**:
 The calculator will display the monthly average result.
 
+
 ## Usage
 Clear and concise instructions on how to use the calculator effectively. Include examples or screenshots if necessary.
-![AlX Monthly  Calculator] (https://drive.google.com/file/d/1ahJK5Y5FjmIS0FRoBi59DJSBIbgC5zu5/view?usp=sharing)
+
+![AlX Monthly  Calculator](https://drive.google.com/file/d/1ahJK5Y5FjmIS0FRoBi59DJSBIbgC5zu5/view?usp=sharing)
 
 
 ## Feedback and Issues
@@ -86,5 +82,6 @@ Intended to assist users in calculating monthly averages for various projects an
 `Educational Use Only`, `No Guarantee of Accuracy`, `User Responsibility`, `No Warranty`
 
 ## Authors
->[E. Marvel](https://github.com/emarvelm)
+[E. Marvel](https://github.com/emarvelm)
+
 [O. Stephen](https://github.com/silverchill)
